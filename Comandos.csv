@@ -1,0 +1,142 @@
+    1  pwd
+    2  awk
+    3  split
+    4  splitn_u
+    5  split -l
+    6  split --help
+    7  ls
+    8  git config -global user.name camparra
+    9  git config --global user.name camparra
+   10  git config --global user.email camparra@hotmail.com
+   11  git config --list
+   12  exit
+   13  mkdir ~/datascience1
+   14  cd ~/datascience1
+   15  LS
+   16  ls
+   17  clear
+   18  ls
+   19  git init
+   20  git remote add origin https://github.com/camparra/datascience1.git
+   21  ls
+   22  ls
+   23  pwd
+   24  exit
+   25  pwd
+   26  pwd
+   27  ls
+   28  ls
+   29  ls -ltr
+   30  clear
+   31  exit
+   32  git config -global user.name "Camparra"
+   33  git config --global user.name "Camparra"
+   34  git config --global user.mail "camparra@hotmail.com"
+   35  git config --List
+   36  git config --List
+   37  git config --list
+   38  git config --global user.email "camparra@hotmail.com"
+   39  exit
+   40  ls
+   41  cls
+   42  cls
+   43  cls
+   44  clear
+   45  ls
+   46  cls
+   47  clesar
+   48  clear
+   49  cd "C:\Users\Camilo Parra\Documents\CursoData"
+   50  mkdir Modelo_ChurnTM
+   51  ls
+   52  cd Modelo_ChurnTM/
+   53  cls
+   54  dis
+   55  dir
+   56  cls
+   57  clear
+   58  git init
+   59  git remote add origin https://github.com/camparra/Modelo_ChurnTM.git
+   60  awk
+   61  cls
+   62  clear
+   63  pwd
+   64  ?
+   65  help
+   66  version
+   67  version
+   68  v
+   69  git config --list
+   70  ls
+   71  cd Documents/
+   72  ls
+   73  cd CursoData/
+   74  mkdir Ejemplo_GitHub
+   75  ls -ltr
+   76  cd Ejemplo_GitHub/
+   77  cls
+   78  clear
+   79  git clone https://github.com/artsy/artsy.github.io.git
+   80  git config ''all
+   81  git config --l
+   82  git config --L
+   83  cld
+   84  scls
+   85  clear
+   86  history 
+   87  history | fgrep l
+   88  git config --list
+   89  ssh-keygen
+   90  pwd
+   91  ls
+   92  ls -al
+   93  cat  /c/Users/Camilo Parra/.ssh/id_rsa.pub.
+   94  cd  /c/Users/Camilo Parra/.ssh/
+   95  cd  "/c/Users/Camilo Parra/.ssh/"
+   96  ls
+   97  ls -ltr
+   98  cat id_rsa.pub
+   99   cd  ~/Documents/CursoData/Ejemplo_GitHub
+  100  cd ..
+  101  ls
+  102  cd Modelo_ChurnTM/
+  103  ls -ltr
+  104  cls
+  105  clear
+  106  git init 
+  107  Touch readme2
+  108  git add readme2 
+  109  git status 
+  110  git commit -m "Este es el primer archivo desde mi computadora"
+  111  git remote add origin https://github.com/camparra/Modelo_ChurnTM.git
+  112  git remote rm https://github.com/camparra/Modelo_ChurnTM.git
+  113  git remote rm https://github.com/camparra/Modelo_ChurnTM.git
+  114  git remote add origin https://github.com/camparra/Modelo_ChurnTM.git
+  115  ls
+  116  cd ..
+  117  mkdir Pruebas_Git
+  118  history 
+  119  ls
+  120  cd Ejemplo_GitHub/
+  121  git init 
+  122  Touch readme2
+  123  git status 
+  124  git add .
+  125   git commit -m "Este es el primer archivo desde mi computadora "
+  126  git remote add origin https://github.com/camparra/Pruebas_Git.git
+  127  git pull origin master
+  128  ls
+  129  git push origin master 
+  130  ls
+  131  head artsy.github.io/
+  132  rm artsy.github.io/
+  133  rmdir artsy.github.io
+  134  cd artsy.github.io/
+  135  ls
+  136  rm -r
+  137  rm -r *.*
+  138  ls
+  139  ls
+  140  cd ..
+  141  git push origin master 
+  142  history > Comandos.csv
